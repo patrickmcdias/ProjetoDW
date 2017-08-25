@@ -8,4 +8,4 @@ echo "{
 "\"Tecnologia\"": "\"$tecnologia\"",
 "\"Modo de Operação\"": "\"$modop\""
 "\"Potência dB\"": "\"$potencia\""
-}"
+}" > mon.json
