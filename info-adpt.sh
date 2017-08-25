@@ -7,6 +7,6 @@ echo "{
 "\"$usb\"": "\"$id\"",
 "\"Adaptador\"": "\"$adaptador\"",
 "\"Tecnologia\"": "\"$tecnologia\""
-}"
+}" > adpt.json
 
 
