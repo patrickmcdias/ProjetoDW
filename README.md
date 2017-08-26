@@ -3,7 +3,7 @@
 > Equipe: Patrick Muller da Costa Dias e Matheus Gabriel Lima de Mendonça
 
 # Objetivo
-Segurança em redes sem fio é algum primordial hoje em dia, visto que ela é resposável por grande maioria dos acesso a internet. O projeto visa fornercer um interface Web para que possam ser realizados testes de penatração em redes sem fio que utilizem o tipo de criptografia WEP.
+Segurança em redes sem fio é algum primordial hoje em dia, visto que ela é resposável por grande maioria dos acesso a internet. O projeto visa fornercer um interface Web para que possam ser realizados testes de penatração em redes sem fio que utilizem o tipo de criptografia WEP utilizando o pacote Aircrack-ng do Kali Linux.
 
 # Ideia principal
 A ideia principal é:
@@ -12,4 +12,7 @@ A ideia principal é:
 
 *Figura 1 - Tela de Login*
 ![Tela de Login](login.png)
+
+*Figura 1 - Tela Principal*
+![Tela Principal](principal.png)
 
