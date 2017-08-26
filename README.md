@@ -11,10 +11,10 @@ A ideia principal é:
 - Realizar teste de penatração com a tentiva de descoberta dos dados de acesso a rede;
 
 *Figura 1 - Tela de Login*
-![Tela de Login](login.png)
+![Tela de Login](imgReadme/login.png)
 
 *Figura 2 - Tela Principal*
-![Tela Principal](principal.png)
+![Tela Principal](imgReadme/principal.png)
 
 ### Alguns [comandos]
 
