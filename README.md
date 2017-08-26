@@ -13,6 +13,14 @@ A ideia principal é:
 *Figura 1 - Tela de Login*
 ![Tela de Login](login.png)
 
-*Figura 1 - Tela Principal*
+*Figura 2 - Tela Principal*
 ![Tela Principal](principal.png)
 
+### Alguns [comandos]
+
+#### Monitora rede que utiliza criptografia WEP no canal 2(neste exemplo)
+airodump-ng mon0 --encrypt WEP -w captura -u 2
+#### Coloca placa de rede sem fio no modo monitor
+airmon-ng start wlan0
+#### Realiza o procedimento de quebra da senha
+aircrack-ng -z  -b <MAC DO AP>  <ARQUIVO>*.cap
